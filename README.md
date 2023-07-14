@@ -1,2 +1,3 @@
-# python crash course 3rd edition
- python crash course 3rd edition exercise
+# python crash course 3rd edition exercise
+ Darab Heirani, Master Student, 
+ E-mail: d.heirani@ut.ac.ir
